@@ -1,1 +1,6 @@
-Let's get freaky 
+public class freaky {
+  public static void main(String args[]) {
+    System.out.println("Hello, freaky!");
+    System.out.pringln("Let's get freaky");
+  }
+}
